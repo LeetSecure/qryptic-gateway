@@ -13,7 +13,7 @@ The **Qryptic Gateway** enforces access controls using WireGuard and dynamically
 2. Add the Gateway in the Controller UI.
 3. Run the Gateway using the Docker command provided by the Controller.
 
-For detailed setup and configuration instructions, visit the [Qryptic Gateway Documentation](https://docs.qryptic.com/).
+For detailed setup and configuration instructions, visit the [Qryptic Gateway Documentation](https://docs.qryptic.app/).
 
 ---
 
